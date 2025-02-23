@@ -4,7 +4,7 @@ const Welcome = () => {
       <div className="px-4 mx-auto container-none sm:px-6">
         <div className="px-4 text-center">
           <p className="max-w-3xl mx-auto text-xl text-black dark:text-white">
-            hello world
+            hello world uwhduh
           </p>
         </div>
       </div>

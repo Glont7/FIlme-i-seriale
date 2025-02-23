@@ -104,7 +104,7 @@ const Navbar = () => {
         <div className="block lg:hidden">
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-2">
-              <span className="text-xl font-bold">Unzet App</span>
+              <span className="text-xl font-bold">Filme si Seriale</span>
             </div>
             <div className="flex items-center gap-2">
               <ThemeToggle />
@@ -118,7 +118,7 @@ const Navbar = () => {
                   <SheetHeader className="hidden">
                     <SheetTitle>
                       <div className="flex items-center gap-2">
-                        <span className="text-xl font-bold">Unzet App</span>
+                        <span className="text-xl font-bold">Filme si Seriale</span>
                       </div>
                     </SheetTitle>
                   </SheetHeader>
